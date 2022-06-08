@@ -1,0 +1,18 @@
+This is just documentation for my config files. It is yet to be seen what this will become.
+
+* TODO
++ [ ] Setup better pdf viewer
++ [ ] Possibly setup email client
++ [ ] Git integration
+
+* Evil mode
+I mainly use evil mode, no custom bindings yet but I have heard the SPC-e is not bound to
+anything so I will use that if I need to.
+
+* PDF-Viewer
+Note the script pdflatex_shell_escape.sh, the default latex compiler is set to use this
+script so that I can use the --shell-escape flag.
+
+** TODO : better solution to --shell-escape problem
+Perhaps permanently change the default compiler or at least be able to optionally choose the
+compiler script.
