@@ -1,6 +1,7 @@
 This is just documentation for my config files. It is yet to be seen what this will become.
 
 * TODO
++ [ ] Better org file display in github (perhaps a preview)
 + [ ] Setup better pdf viewer
 + [ ] Possibly setup email client
 + [ ] Git integration
